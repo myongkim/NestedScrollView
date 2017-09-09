@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NestedScrollView/TableViewCell.swift"
+            timestampString = "526424930.220967"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedScrollView.TableViewCell.dataLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "NestedScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaac/Desktop/Careerfoundary/1_8_ScrollView/NestedScrollView/NestedScrollView/TableViewCell.swift"
+                  timestampString = "526424793.919177"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedScrollView.TableViewCell.dataLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "NestedScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaac/Desktop/Careerfoundary/1_8_ScrollView/NestedScrollView/NestedScrollView/TableViewCell.swift"
+                  timestampString = "526424793.921713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedScrollView.TableViewCell.init (style : __C.UITableViewCellStyle, reuseIdentifier : Swift.Optional&lt;Swift.String&gt;) -&gt; NestedScrollView.TableViewCell"
+                  moduleName = "NestedScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaac/Desktop/Careerfoundary/1_8_ScrollView/NestedScrollView/NestedScrollView/TableViewCell.swift"
+                  timestampString = "526424793.923974"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NestedScrollView.TableViewCell.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;NestedScrollView.TableViewCell&gt;"
+                  moduleName = "NestedScrollView"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/isaac/Desktop/Careerfoundary/1_8_ScrollView/NestedScrollView/NestedScrollView/TableViewCell.swift"
+                  timestampString = "526424793.926666"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
